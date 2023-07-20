@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Chewy&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  letter-spacing: 0.13rem;
+  font-family: "Chewy", cursive;
+}
+
+:root {
+  --color1: #bb1519;
+  --color2: #fff;
+  --color3: #000;
+  --color4: #4e4b4b;
+}
+
+body {
+  background-color: var(--color3);
+  color: var(--color2);
+}
+
+a {
+  color: var(--color2);
+}
